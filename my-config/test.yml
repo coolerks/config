@@ -1,0 +1,7 @@
+name:
+  2222
+eureka:
+  instance:
+    hostname: localhost
+    instance-id: cloud-config3344
+    prefer-ip-address: true
