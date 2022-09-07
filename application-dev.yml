@@ -1,4 +1,4 @@
 hello:
   this: 66666
 name:
-  message: update
+  message: hello world Spring Cloud
